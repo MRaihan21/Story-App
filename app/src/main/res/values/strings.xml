@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="logo">Logo</string>
+    <string name="masuk">Masuk</string>
+    <string name="daftar">Daftar</string>
+    <string name="belum_punya_akun">Belum punya akun?</string>
+    <string name="name">Name</string>
+    <string name="sudah_punya_akun">Sudah punya akun?</string>
+    <string name="home">Home</string>
+    <string name="email_error">"gmail.com"</string>
+    <string name="password_error">Password must be more than 8 characters</string>
+    <string name="error_text">Please fill in all required fields</string>
+    <string name="success">Your registration is successful</string>
+    <string name="login_successfuly">login successful</string>
+    <string name="log_out">Log Out</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="image_story">image story</string>
+    <string name="detail_image">detail image</string>
+    <string name="add">add</string>
+
+</resources>
